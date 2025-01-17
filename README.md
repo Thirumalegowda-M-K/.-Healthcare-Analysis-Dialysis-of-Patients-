@@ -1,2 +1,2 @@
 # .-Healthcare-Analysis-Dialysis-of-Patients-
-Healthcare Analysis is the one of my projects during my internship at ExcelR solutions.
+This project focuses on analyzing healthcare-related data using various tools such as Excel, Tableau, and SQL. The aim is to extract meaningful insights and visualize key performance indicators (KPIs) to support informed decision-making. The analysis involves creating dashboards and performing queries to summarize and evaluate the performance of healthcare organizations and patient statistics.
