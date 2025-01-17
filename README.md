@@ -29,7 +29,7 @@ Identified and summarized categories labeled as "As Expected" for compliance and
 6)Average Payment Reduction Rate:
 Calculated and analyzed average payment reduction rates across various organizations.
 
-Project Deliverables
+Project Deliverables:
 
 Excel Dashboard:
 Interactive and visually appealing dashboard summarizing key insights.
@@ -66,7 +66,7 @@ Incorporating machine learning models for predictive analysis.
 Expanding data sources to include real-time data streams.
 Adding more advanced visualizations in Tableau and Power BI.
 
-Contact
+Contact:
 
 For any questions or feedback, please reach out to:
 
