@@ -4,7 +4,9 @@ This project focuses on analyzing healthcare-related data using various tools su
 Key Tools Used:
 
 Excel: For data cleaning, preliminary analysis, and dashboard creation.
+
 Tableau: For advanced visualization and interactive dashboards.
+
 SQL: For data extraction, transformation, and querying.
 
 KPIs and Analysis Performed:
@@ -42,8 +44,11 @@ Optimized and structured SQL queries used for data extraction and analysis.
 Explore the following:
 
 /Dashboard.xlsx: Contains Excel files with dashboards.
+
 /Dashboard.twbx: Includes Tableau packaged workbooks (.twbx).
+
 /sql healthcare project.sql: Folder with SQL scripts used in the analysis.
+
 Open the respective files in Excel, Tableau, or your preferred SQL client to explore and replicate the analysis.
 
 Insights and Findings:
@@ -64,6 +69,9 @@ Adding more advanced visualizations in Tableau and Power BI.
 Contact
 
 For any questions or feedback, please reach out to:
+
 Name: Thirumalegowda M K
+
 Email: dhanumk17@gmail.com
+
 Phone: +91 6363758947
